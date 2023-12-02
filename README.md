@@ -22,7 +22,7 @@ The project is based on the tutorial available at [Medium - NestJS and PostgreSQ
 - **NestJS:** A powerful Node.js framework for building server-side applications.
 - **TypeScript:** Used throughout the entire application for enhanced type safety.
 - **PostgreSQL:** Our relational database for storing and managing data.
-- **React:** The user interface framework for building dynamic web applications.
+- **React:** The user interface library for building dynamic web applications.
 
 ## Project Status
 
